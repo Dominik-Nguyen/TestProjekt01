@@ -6,7 +6,6 @@
 ## Listen Funktionieren auch 
 
 - item 1
-- Item 2
 - Item 3
 
 ## Ordered lists funktionieren auch
